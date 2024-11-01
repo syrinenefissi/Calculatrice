@@ -21,7 +21,7 @@
     font-size: 2.5em; 
     margin-bottom: 20px; 
     text-align: center;
-    height: 700px;
+    margin-top: 30px;
     left: 50%; /* Centre horizontalement */
     transform: translateX(-50%); /* Ajuste le centrage */
 }
